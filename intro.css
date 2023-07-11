@@ -1,0 +1,18 @@
+.cstm-img img {
+  width: 100%;
+  aspect-ratio: 1/1;
+  object-fit: cover;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgb(0, 0, 0);
+}
+.some-txt {
+  line-height: 1.6rem;
+  hyphens: auto;
+}
+@media only screen and (min-width: 767px) {
+  .cstm-img img {
+    width: 450px;
+    float: left;
+    margin: 10px;
+  }
+}
