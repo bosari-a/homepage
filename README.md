@@ -18,6 +18,8 @@ titor@IBN-5100:~/js-toast/homepage$ make greeting
 -> Feel free to have a look around!
 ```
 
+- [My homepage](https://bosari-a.github.io/homepage/index.html)
+
 I had so much fun making this website. I used
 bootstrap v5.2 as it was a necessary part of the problem set however, a lot of the styling is my own `CSS`. This project would have not come out as nicely as I would have wished for it to be without some major inspiration and without the help of some assets and websites. Below I leave a link to the resources that helped me the most during development and to whatever inspired the layout of this page.
 
