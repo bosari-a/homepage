@@ -21,7 +21,10 @@ h1{
   .cstm-img img {
     width: 450px;
     float: left;
-    margin: 10px;
+    margin-right: 30px;
+  }
+  .some-txt{
+    padding: 0 10px 0 50px;
   }
   .cstm-img-2 {
     padding: 20px;
