@@ -5,14 +5,30 @@
   border-radius: 10px;
   box-shadow: 0 0 10px rgb(0, 0, 0);
 }
+.cstm-img-2 img {
+  width: 100%;
+  aspect-ratio: 16/9;
+  border-radius: 10px;
+}
 .some-txt {
   line-height: 1.6rem;
   hyphens: auto;
+}
+h1{
+  margin: 0 auto;
 }
 @media only screen and (min-width: 767px) {
   .cstm-img img {
     width: 450px;
     float: left;
     margin: 10px;
+  }
+  .cstm-img-2 {
+    padding: 20px;
+  }
+  .cstm-img-2 img {
+    width: 50%;
+    float: right;
+    margin-left: 10px;
   }
 }

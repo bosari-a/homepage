@@ -62,16 +62,17 @@
 @media only screen and (min-width: 767px) {
   .code-block {
     max-width: 60%;
-    border: 3px solid #4682b4 !important;
+    border: 3px solid greenyellow !important;
     border-radius: 10px !important;
     margin-right: 60px;
     margin-left: auto;
     font-size: larger;
+    box-shadow: 20px -20px greenyellow;
   }
   .cstm-card-img img {
     width: 70%;
   }
-  .bg2{
+  .bg2 {
     background-position: 100% 0;
   }
 }
